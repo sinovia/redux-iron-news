@@ -1,0 +1,68 @@
+$darkgray: #8D90A1;
+$lightgray: #9fa1a3;
+
+
+.container {
+  margin-top: 100px;
+  margin-left: 350px;
+  margin-right: 350px;
+  background-color: #EEF0F3;
+}
+
+ul {
+  list-style-type: none;
+    display: inline-flex;
+}
+.ironnewsheader {
+  background-color: $darkgray;
+  width: 100%;
+  display: flex;
+  padding: 2px;
+  vertical-align: middle;
+}
+
+.topnav {
+
+}
+
+#logo{
+border: 1px solid white;
+color: white;
+vertical-align: middle;
+text-align: center;
+height: 15px;
+width: 15px;
+padding: 2px;
+}
+
+.address{
+  color: $lightgray;
+  font-size: 12px;
+}
+
+.newStories li {
+  display: inline;
+}
+
+.points {
+color: $lightgray;
+font-size: 10px;
+display: block;
+}
+
+.newstitle {
+  font-weight: bold;
+}
+
+
+.login {
+  margin-left: 350px;
+}
+
+.bar {
+  color: white;
+  margin-left: 10px;
+  text-align: center;
+  vertical-align: middle;
+
+}
